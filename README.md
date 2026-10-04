@@ -38,7 +38,7 @@ p = softmax(y)                        P(w_t | previous n words)
 ## Quick start
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/SID-sai/bengio-neural-probabilistic-language-model-numpy
 cd bengio-nplm-numpy
 pip install -r requirements.txt
 python extra.py
